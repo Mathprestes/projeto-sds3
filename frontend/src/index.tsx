@@ -4,9 +4,9 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'assets/css/styles.css';
 import App from './App';
 
-ReactDOM.render(
+ReactDOM.render(   //chamando a funçao com tag "app" do arquivo "App.tsx"
   <React.StrictMode>
-    <App />
+    <App />  
   </React.StrictMode>,
   document.getElementById('root')
 );
