@@ -18,7 +18,7 @@ const DonutChart = () => {   //mesma coisa se usar a funcao no lugar
             options={{...options, labels: mockData.labels}}
             series={mockData.series} 
             type="donut"
-            height="240"
+            height="300"
         />
     );
 }

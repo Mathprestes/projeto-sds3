@@ -14,6 +14,11 @@ html, body {
     display: flex;
     flex-direction: column;
     height: 100%;
+    background: #ffffff;
+}
+
+.nav {
+    background-color: #000000 !important;
 }
 
 .content {
@@ -23,6 +28,26 @@ html, body {
 .footer {  /* rodapé */
     flex-shrink: 0;
     text-align: center;
+    background-color: #000000 !important;
+}
+
+.table {
+    font-size: 15px;
+    color: #000000;
+}
+
+a {
+    color: #FF8400;
+    font-size: 20px;
+}
+
+.text1, 
+.text3 {
+    font-size: 20px;
+}
+
+.text2 {
+    font-size: 25px;
 }
 
 .bg-primary {  /*mudando uma cor do bootstrao */
@@ -30,5 +55,9 @@ html, body {
 }
 
 .text-primary {
+    color: var(--color-primary) !important;
+}
+
+.text-secondary {
     color: var(--color-primary) !important;
 }
