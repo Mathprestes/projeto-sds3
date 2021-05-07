@@ -21,8 +21,16 @@ html, body {
     background-color: #000000 !important;
 }
 
+.cont {
+    margin-top: 8%;
+}
+
 .content {
     flex: 1 0 auto;
+}
+
+.btn {
+    background-color: #FF8400 !important;
 }
 
 .footer {  /* rodapé */
