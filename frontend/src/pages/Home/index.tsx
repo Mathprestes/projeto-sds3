@@ -10,7 +10,7 @@ const Home = () => {   //mesma coisa se usar a funcao no lugar
 
         <div className="cont container">
             <div className="jumbotron">
-                <h1 className="display-4">DSVendas</h1>
+                <h1 className="display-4"> Sistema de Vendas </h1>
                 <p className="lead">Analise o desempenho das suas vendas por diferentes perspectivas</p>
         
                 <hr/>
