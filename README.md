@@ -30,9 +30,9 @@ Desenvolvido com ❤️ por MATHEUS PRESTES 👋🏽 Entre em contato!
   
 <div align="center">
 
-[![Github Badge](https://img.shields.io/badge/-USUÁRIO-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Mathprestes)
-[![Linkedin Badge](https://img.shields.io/badge/-NOME_SOBRENOME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-prestes-235833186)
-[![Outlook Badge](https://img.shields.io/badge/-EMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](matheus.prestes_@outlook.com)
+[![Github Badge](https://img.shields.io/badge/-MathPrestes-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Mathprestes)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus_Prestes-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-prestes-235833186)
+[![Outlook Badge](https://img.shields.io/badge/-EMAIL-000?style=flat-square&logo=microsoft-outlook&logoColor=white)](matheus.prestes_@outlook.com)
 
 <div>
   
